@@ -1,0 +1,9 @@
+kothai\pageobject\CheckoutPage.class
+kothai\abstractcomponents\AbstractComponents.class
+kothai\pageobject\ConfirmationPage.class
+kothai\pageobject\OrderPage.class
+kothai\pageobject\App.class
+kothai\pageobject\CartPage.class
+kothai\pageobject\ProductCatalog.class
+kothai\pageobject\LandingPage.class
+kothai\resources\ExtentReporterNG.class
